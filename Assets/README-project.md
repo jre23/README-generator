@@ -1,5 +1,4 @@
-
-# Test Project
+# Joel Test
 
 ## Table of Contents
 
@@ -13,31 +12,31 @@
 
 ## Description
 
-This project creates a professional README.md based off of user input using node.js!
+I am testing my README.md generator app.
 
 ## GitHub Repo and Deployment
 
 [GitHub repo](https://github.com/jre23/README-generator)
 
-[Deployed on GitHub pages](hskip)
+[Deployed on GitHub pages](https://jre23.github.io/README-generator)
 
 ## Screenshots
 
-![Test Project screenshot 1]()
+![Joel Test screenshot 1]()
 
-![Test Project screenshot 2]()
+![Joel Test screenshot 2]()
 
-![Test Project screenshot 3]()
+![Joel Test screenshot 3]()
 
 ## Technologies
 
-Please see the following for a list of technologies used in this project:
+Please see the following for the technologies used in this project:
 
-* node.js
+* node.js, JavaScript, Git, GitHub
 
 ## Installation
 
-Use node.js and npm i inquirer and npm i fs to install the needed dependencies.
+Using node.js, install dependencies inquirer and fs, then use index.js as the entry point "node index.js"
 
 ## License
 

@@ -19,13 +19,13 @@ const questions = [{
     },
     {
         type: "input",
-        message: "What is the project's GitHub repo URL?",
+        message: "What is the project's GitHub repo name?",
         name: "projectRepo"
     },
     {
         type: "input",
-        message: "What is the project's GitHub pages URL?",
-        name: "projectDeployment"
+        message: "What is your GitHub username?",
+        name: "gitHubUserName"
     },
     {
         type: "input",
@@ -64,9 +64,9 @@ ${data.projectDescription}
 
 ## GitHub Repo and Deployment
 
-[GitHub repo](${data.projectRepo})
+[GitHub repo](https://github.com/${data.gitHubUserName}/${data.projectRepo})
 
-[Deployed on GitHub pages](${data.projectDeployment})
+[Deployed on GitHub pages](https://${data.gitHubUserName}.github.io/${data.projectRepo})
 
 ## Screenshots
 
@@ -78,7 +78,7 @@ ${data.projectDescription}
 
 ## Technologies
 
-Please see the following for a list of technologies used in this project:
+Please see the following for the technologies used in this project:
 
 * ${data.projectTech}
 
@@ -94,7 +94,7 @@ ${data.projectLicense}
 
 If you have any questions about this project feel free to reach out using the following email:
 
-[Email](${data.userEmail})
+${data.userEmail}
 `
     fs.writeFile(fileName, readMeString, function (err) {
         if (err) {
