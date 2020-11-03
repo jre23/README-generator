@@ -46,8 +46,7 @@ const questions = [{
 
 // function to write README file
 function writeToFile(fileName, data) {
-    const readMeString = `
-# ${data.projectName}
+    const readMeString = `# ${data.projectName}
 
 ## Table of Contents
 
@@ -67,7 +66,7 @@ ${data.projectDescription}
 
 [GitHub repo](${data.projectRepo})
 
-[Deployed on GitHub pages](h${data.projectDeployment})
+[Deployed on GitHub pages](${data.projectDeployment})
 
 ## Screenshots
 
@@ -95,14 +94,23 @@ ${data.projectLicense}
 
 If you have any questions about this project feel free to reach out using the following email:
 
-${data.userEmail}
-
+[Email](${data.userEmail})
 `
+    fs.writeFile(fileName, readMeString, function (err) {
+        if (err) {
+            return console.log(err);
+        }
+        console.log("Success!");
+    });
 }
 
 // function to initialize program
 function init() {
-
+    inquirer
+        .prompt(questions)
+        .then(function (response) {
+            writeToFile("README-project.md", response);
+        });
 }
 
 // function call to initialize program
