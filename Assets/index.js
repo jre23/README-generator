@@ -1,3 +1,4 @@
+// dependencies
 const inquirer = require("inquirer");
 const fs = require("fs");
 
@@ -83,7 +84,8 @@ function writeToFile(fileName, data) {
         licenseBadge = "[![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)";
     }
 
-    const readMeString = `# Project Title: ${data.projectName}
+    // string to pass to fs.writeFile
+    const readMeString = `# ${data.projectName}
 
 ## Table of Contents
 
@@ -150,6 +152,7 @@ If you have any questions about this project feel free to reach out using the fo
 
 [Email](${data.userEmail})
 `
+    // call fs.writeFile to create the README-project.md
     fs.writeFile(fileName, readMeString, function (err) {
         if (err) {
             return console.log(err);

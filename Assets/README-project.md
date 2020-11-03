@@ -1,4 +1,4 @@
-# Project Title: Joel Test
+# Joel Test
 
 ## Table of Contents
 
@@ -13,13 +13,13 @@
 
 ## Description
 
-Testing
+Joel Test
 
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+[![License](https://img.shields.io/badge/License-EPL%201.0-red.svg)](https://opensource.org/licenses/EPL-1.0)
 
 ## GitHub Repo and Deployment
 
-[GitHub repo](https://github.com/jre23/README-generator)
+[GitHub repo](https://github.com/jre23/jre23)
 
 ## Screenshots
 
@@ -37,23 +37,23 @@ Please see the following for the technologies used in this project:
 
 ## Installation
 
-install me
+install
 
 ## Usage
 
-use it
+use
 
 ## License
 
-This project is licensed under the Apache 2.0 license.
+This project is licensed under the Eclipse Public license.
 
 ## Contributing
 
-contribute anytime
+contribute
 
 ## Tests
 
-npm test
+test
 
 ## Questions
 
