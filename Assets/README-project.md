@@ -1,4 +1,4 @@
-# Joel Test
+# Project Title: Joel Test
 
 ## Table of Contents
 
@@ -7,18 +7,19 @@
 3. [Screenshots](#Screenshots)
 4. [Technologies](#Technologies)
 5. [Installation](#Installation)
-6. [License](#License)
-7. [Questions](#Questions)
+6. [Usage](#Usage)
+7. [License](#License)
+8. [Questions](#Questions)
 
 ## Description
 
-I am testing my README.md generator app.
+Testing
+
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 ## GitHub Repo and Deployment
 
 [GitHub repo](https://github.com/jre23/README-generator)
-
-[Deployed on GitHub pages](https://jre23.github.io/README-generator)
 
 ## Screenshots
 
@@ -32,18 +33,34 @@ I am testing my README.md generator app.
 
 Please see the following for the technologies used in this project:
 
-* node.js, JavaScript, Git, GitHub
+* node.js
 
 ## Installation
 
-Using node.js, install dependencies inquirer and fs, then use index.js as the entry point "node index.js"
+install me
+
+## Usage
+
+use it
 
 ## License
 
-MIT
+This project is licensed under the Apache 2.0 license.
+
+## Contributing
+
+contribute anytime
+
+## Tests
+
+npm test
 
 ## Questions
 
-If you have any questions about this project feel free to reach out using the following email:
+Check out my GitHub profile:
 
-jre.estrada@gmail.com
+[GitHub Profile](https://github.com/jre23)
+
+If you have any questions about this project feel free to reach out using the following email link:
+
+[Email](jre.estrada@gmail.com)
