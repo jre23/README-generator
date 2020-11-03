@@ -157,7 +157,7 @@ If you have any questions about this project feel free to reach out using the fo
         if (err) {
             return console.log(err);
         }
-        console.log("Success!");
+        console.log("Success! Your new README file is titled 'README-" + data.projectName + ".md' and should be located in your local repo!");
     });
 }
 
@@ -166,7 +166,7 @@ function init() {
     inquirer
         .prompt(questions)
         .then(function (response) {
-            writeToFile("README-project.md", response);
+            writeToFile("README-" + response.projectName + ".md", response);
         });
 }
 

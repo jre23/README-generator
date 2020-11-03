@@ -50,7 +50,7 @@ Git clone link: https://github.com/jre23/README-generator.git
 
 ## Usage
 
-To run this application, clone it using the above Git clone link. Then navigate to the local repository on your machine using Git Bash/Terminal. Run "npm init" to create a "package.json". Install the dependencies using "npm i inquirer" and "npm i fs". Then use index.js as the main/entry point "node index.js".
+To run this application, clone it using the above Git clone link. Then navigate to the local repository on your machine where you've cloned it using Git Bash/Terminal. Then use index.js as the main/entry point "node index.js".
 
 ## Credits
 
