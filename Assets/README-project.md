@@ -1,4 +1,4 @@
-# Joel Test
+# Random Project
 
 ## Table of Contents
 
@@ -13,47 +13,47 @@
 
 ## Description
 
-Joel Test
+This is an example of using the README-generator.
 
-[![License](https://img.shields.io/badge/License-EPL%201.0-red.svg)](https://opensource.org/licenses/EPL-1.0)
+[![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
 
 ## GitHub Repo and Deployment
 
-[GitHub repo](https://github.com/jre23/jre23)
+[GitHub repo](https://github.com/jre23/README-generator)
 
 ## Screenshots
 
-![Joel Test screenshot 1]()
+![Random Project screenshot 1]()
 
-![Joel Test screenshot 2]()
+![Random Project screenshot 2]()
 
-![Joel Test screenshot 3]()
+![Random Project screenshot 3]()
 
 ## Technologies
 
 Please see the following for the technologies used in this project:
 
-* node.js
+* JavaScript, Node.js, Git
 
 ## Installation
 
-install
+Clone via GitHub. Using node.js, install dependencies "npm i inquirer" and "npm i fs". Run using entry point index.js "node index.js".
 
 ## Usage
 
-use
+Run using "node index.js"
 
 ## License
 
-This project is licensed under the Eclipse Public license.
+This project is licensed under the Mozilla license.
 
 ## Contributing
 
-contribute
+Reply to the email listed in my GitHub profile.
 
 ## Tests
 
-test
+NA
 
 ## Questions
 

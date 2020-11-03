@@ -22,11 +22,11 @@ The goal for this project was to build a command-line application using node.js 
 
 ## Screenshots
 
-![README generator screenshot 1]()
+![README generator screenshot 1](https://user-images.githubusercontent.com/69170823/97950959-62128400-1d4d-11eb-8c94-f30c15092af1.png)
 
-![README generator screenshot 2]()
+![README generator screenshot 2](https://user-images.githubusercontent.com/69170823/97951018-91c18c00-1d4d-11eb-81c9-eeeb541f26ac.png)
 
-![README generator screenshot 3]()
+![README generator screenshot 3](https://user-images.githubusercontent.com/69170823/97951047-bc134980-1d4d-11eb-8fd3-dcc0e4013caa.png)
 
 ## Technologies
 
