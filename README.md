@@ -18,15 +18,15 @@ The goal for this project was to build a command-line application using Node.js 
 
 [GitHub repo](https://github.com/jre23/README-generator)
 
-[Video Demonstration]()
+[Video Demonstration](https://drive.google.com/file/d/1DcVRDIP_Fu7F4eAwnE1eaFENgvd9KWOQ/view)
 
 ## Screenshots
 
-![README generator screenshot 1](https://user-images.githubusercontent.com/69170823/97950959-62128400-1d4d-11eb-8c94-f30c15092af1.png)
+![README generator screenshot 1](https://user-images.githubusercontent.com/69170823/98057585-79a64700-1df7-11eb-8a54-98e9dfad5963.png)
 
-![README generator screenshot 2](https://user-images.githubusercontent.com/69170823/97951282-74d98880-1d4e-11eb-81c2-9bec6395bb02.png)
+![README generator screenshot 2](https://user-images.githubusercontent.com/69170823/98057622-92aef800-1df7-11eb-8b03-66fea554ccb7.png)
 
-![README generator screenshot 3](https://user-images.githubusercontent.com/69170823/97951290-87ec5880-1d4e-11eb-9b29-3d425d90253d.png)
+![README generator screenshot 3](https://user-images.githubusercontent.com/69170823/98057674-ac503f80-1df7-11eb-9ee6-e913636e5c6e.png)
 
 ## Technologies
 
