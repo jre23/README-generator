@@ -12,7 +12,7 @@
 
 ## Description
 
-The goal for this project was to build a command-line application using node.js that accepts user input and outputs a professional README based off of the user input.
+The goal for this project was to build a command-line application using Node.js that accepts user input and outputs a professional README based off of the user input.
 
 ## GitHub Repo and Deployment
 

@@ -150,7 +150,7 @@ Check out my GitHub profile:
 
 If you have any questions about this project feel free to reach out using the following email link:
 
-[Email](${data.userEmail})
+[Email](mailto:${data.userEmail})
 `
     // call fs.writeFile to create the README-project.md
     fs.writeFile(fileName, readMeString, function (err) {
